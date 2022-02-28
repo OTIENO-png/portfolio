@@ -1,4 +1,4 @@
-# PERSONAL PORTFOLIO
+## PERSONAL PORTFOLIO
 
 ### Author: Brian Otieno 
 
